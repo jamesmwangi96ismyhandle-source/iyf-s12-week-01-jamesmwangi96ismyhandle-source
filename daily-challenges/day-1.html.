@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 1 - Five HTML Tags</title>
+</head>
+<body>
+    <header>
+        <h1>My Web Development Journey</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Learning New HTML Tags</h2>
+
+            <p>
+                I am learning <mark>HTML</mark> to build websites.
+            </p>
+
+            <p>
+                My goal is to become a
+                <abbr title="Web Developer">WD</abbr>.
+            </p>
+
+            <blockquote>
+                Every expert was once a beginner.
+            </blockquote>
+
+            <p>
+                I can display code using the
+                <code>&lt;h1&gt;</code> tag.
+            </p>
+
+            <p>
+                I started learning web development on
+                <time datetime="2026-09-03">03 October 2026</time>.
+            </p>
+
+            <details>
+                <summary>What have I learned?</summary>
+                <p>
+                    I have learned how to use new HTML tags
+                    to make content more meaningful.
+                    I have learned how to add styles in my work using css.
+                </p>
+            </details>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by James | Day 1 Challenge</p>
+    </footer>
+</body>
+</html>
